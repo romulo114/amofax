@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "babel-preset-next": "^1.4.0",
+    "material-ui": "^0.15.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^2.0.7"
+  }
+}
